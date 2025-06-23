@@ -9,4 +9,5 @@ A simulated environment game built in C++ using sprites, arrays, and pixel-based
 🎮**Sprite & Pixel Simulation** – Simple visuals created with arrays and character/sprite-based graphics.
 **C++** – Core programming language
 **OOP (Object-Oriented Programming)** – Classes, inheritance, encapsulation
+
 **2D Array Structures** – Used to build and update the game environment
