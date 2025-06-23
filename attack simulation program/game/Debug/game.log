@@ -1,0 +1,16 @@
+﻿  game.cpp
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\gameHeader.h(29,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\gameHeader.h(30,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\gameHeader.h(31,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\gameHeader.h(32,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(54,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(71,24): error C2065: 'alienMoveRight': undeclared identifier
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(71,4): error C3861: 'moveAlien': identifier not found
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(83,13): error C2039: 'setPixieType': is not a member of 'AlienArmy'
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\AlienArmy.h(4): message : see declaration of 'AlienArmy'
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(92,5): error C2065: 'isMissileAlienInFlight': undeclared identifier
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(95,15): error C2039: 'drawPixie': is not a member of 'Pixie'
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\Pixie.h(23): message : see declaration of 'Pixie'
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(97,2): error C3861: 'moveTheAlienMissile': identifier not found
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(101,3): error C2065: 'isMissileAlienInFlight': undeclared identifier
+C:\Users\Tessy\source\repos\assignment-3-alien-attack-v1-TessyMugisha\game\game.cpp(109,3): error C2065: 'isMissileAlienInFlight': undeclared identifier
